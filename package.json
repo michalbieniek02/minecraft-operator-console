@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-operator-panel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/*.test.cjs",
+    "dev": "node dev.cjs"
+  },
+  "dependencies": {
+    "ssh2": "^1.17.0"
+  }
+}
